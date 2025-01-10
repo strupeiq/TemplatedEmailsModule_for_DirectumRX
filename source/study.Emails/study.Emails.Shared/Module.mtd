@@ -1,0 +1,82 @@
+{
+  "$type": "Sungero.Metadata.ModuleMetadata, Sungero.Metadata",
+  "NameGuid": "87d1226f-a7f1-4c5e-acbc-907a06026545",
+  "Name": "Emails",
+  "AsyncHandlers": [],
+  "ClientAssemblyName": "study.Emails.Client",
+  "ClientBaseAssemblyName": "study.Emails.ClientBase",
+  "ClientBaseNamespace": "study.Emails.ClientBase",
+  "ClientNamespace": "study.Emails.Client",
+  "Code": "Emails",
+  "CompanyCode": "study",
+  "Cover": {
+    "NameGuid": "d6d6a63f-c419-4957-bfe1-a824670da851",
+    "Actions": [],
+    "Background": null,
+    "Footer": {
+      "NameGuid": "6aa45068-90c4-4344-9e8b-4cb5fb4f29cd",
+      "BackgroundPosition": "Stretch"
+    },
+    "Groups": [],
+    "Header": {
+      "NameGuid": "4b36a949-b01e-4619-b7a9-8acec219fbd1",
+      "BackgroundPosition": "Stretch"
+    },
+    "RemoteControls": [],
+    "Tabs": []
+  },
+  "Dependencies": [
+    {
+      "Id": "3b81de18-c9ae-465d-9fa9-5648bd8bd2f5",
+      "IsSolutionModule": true,
+      "MaxVersion": "",
+      "MinVersion": ""
+    },
+    {
+      "Id": "ec7b606a-21ee-4f16-aba8-ab8c2af76d12",
+      "MaxVersion": "",
+      "MinVersion": "0.0.1.0"
+    },
+    {
+      "Id": "df83a2ea-8d43-4ec4-a34a-2e61863014df",
+      "MaxVersion": "",
+      "MinVersion": "4.10.48.0"
+    }
+  ],
+  "ExplorerTreeOrder": [
+    {
+      "ItemId": "aab7c90f-e8f8-420a-a4be-88b1af155e0b",
+      "PreviousItemId": "1b580474-572d-4525-9dd3-911f1b4936b7"
+    }
+  ],
+  "IconResourcesKeys": [],
+  "Importance": "Medium",
+  "InterfaceAssemblyName": "Sungero.Domain.Interfaces",
+  "InterfaceNamespace": "study.Emails",
+  "IsolatedAssemblyName": "study.Emails.Isolated",
+  "IsolatedNamespace": "study.Emails.Isolated",
+  "Overridden": [
+    "IsVisible"
+  ],
+  "PublicStructures": [],
+  "ResourceInterfaceAssemblyName": "Sungero.Domain.Interfaces",
+  "ResourceInterfaceNamespace": "study.Emails",
+  "ResourcesKeys": [],
+  "ServerAssemblyName": "study.Emails.Server",
+  "ServerNamespace": "study.Emails.Server",
+  "SharedAssemblyName": "study.Emails.Shared",
+  "SharedNamespace": "study.Emails.Shared",
+  "SpecialFolders": [],
+  "Version": "0.0.1.0",
+  "Widgets": [],
+  "Versions": [
+    {
+      "Type": "ModuleMetadata",
+      "Number": 8
+    },
+    {
+      "Type": "DomainApi",
+      "Number": 3
+    }
+  ]
+}

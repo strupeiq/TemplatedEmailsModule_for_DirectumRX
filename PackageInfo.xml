@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<DevelopmentPackageInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <IsDebugPackage>false</IsDebugPackage>
+  <PackageModules>
+    <PackageModuleItem>
+      <Id>3b81de18-c9ae-465d-9fa9-5648bd8bd2f5</Id>
+      <Name>study.Study1</Name>
+      <Version>0.0.1.0</Version>
+      <IncludeAssemblies>true</IncludeAssemblies>
+      <IncludeSources>true</IncludeSources>
+      <IsSolution>true</IsSolution>
+      <IsPreviousLayerModule>false</IsPreviousLayerModule>
+    </PackageModuleItem>
+    <PackageModuleItem>
+      <Id>87d1226f-a7f1-4c5e-acbc-907a06026545</Id>
+      <SolutionId>3b81de18-c9ae-465d-9fa9-5648bd8bd2f5</SolutionId>
+      <Name>study.Emails</Name>
+      <Version>0.0.1.0</Version>
+      <IncludeAssemblies>true</IncludeAssemblies>
+      <IncludeSources>true</IncludeSources>
+      <IsSolution>false</IsSolution>
+      <IsPreviousLayerModule>false</IsPreviousLayerModule>
+    </PackageModuleItem>
+  </PackageModules>
+</DevelopmentPackageInfo>
